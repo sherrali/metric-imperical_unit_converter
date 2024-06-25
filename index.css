@@ -5,7 +5,7 @@ body {
 }
 
 #upper-section{
-    background-color: #6943fe;
+    background-color: rgba(255, 0, 0, 0.692);
     padding: 50px 100px;
     /* border-radius: 30px */
 }
@@ -31,7 +31,7 @@ body {
     color:black;
     border: 2px solid black;
     padding: 10px;
-    font-size: 20px;
+    font-size: 23px;
     /* width: 100px; */
     border-radius: 100px;
     cursor: pointer;
